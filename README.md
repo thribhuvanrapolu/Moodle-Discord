@@ -35,6 +35,10 @@ Built using Python,PHP and uses sql-database
 
 
 ## How it works
+Data stored in sql is encrypted with AES-256-GCM except moodle_id and moodle_username
+ 
+
+Here is the flowchart of the algorithm
 https://cloud.smartdraw.com/share.aspx/?pubDocShare=219DFC2D40C8490735B494DAB92F9815CDC
 
 
