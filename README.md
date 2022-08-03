@@ -7,7 +7,7 @@ Helpful for setting up discord as communication medium in university which preve
 Built using Python,PHP and uses sql-database
 
 
-## How to test it
+## How to use it
 
 1. Setup moodle on your system
 2. Move Discord-Moodle-oAuth folder to moodle/my folder
